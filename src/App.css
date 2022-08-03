@@ -1,0 +1,53 @@
+.offer_dropdown {
+  color: black;
+  background-color: rgba(215, 218, 220, 0.937);
+  font-size: 12px;
+  text-align: center;
+  padding: 7px 100px 10px 100px;
+  margin: 45px auto 2px auto;
+  width: 100%;
+  position: relative;
+}
+
+.offer_dropdown a {
+  color: blue;
+  text-decoration: underline;
+  display: inline-flex;
+  font-size: 12px;
+}
+@media (max-width: 1100px) {
+  .offer_dropdown {
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+    background-color: rgba(215, 218, 220, 0.937);
+    display: none;
+  }
+
+  .macbook-cover-page {
+    background-size: auto 73.6rem;
+    background-position: center;
+  }
+}
+/* Macbook cover page */
+.macbook-cover-page {
+  /* margin: auto; */
+  background: url("./images/apple-macbook-pro2.jpg");
+  width: 100%;
+  border-top: 0.5rem solid #fff;
+  border-bottom: 0.2rem solid #fff;
+  height: 1000px;
+  background-repeat: no-repeat;
+  /* background-color: black; */
+  background-size: auto 73.6rem;
+  background-position: center;
+  margin: 0px auto;
+  color: rgb(247, 231, 231);
+}
+.mac-title {
+  margin-top: 22px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 25px;
+}
