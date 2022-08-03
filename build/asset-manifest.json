@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06aeafa9.css",
+    "main.js": "/static/js/main.f3b0153c.js",
+    "static/media/apple-macbook-pro2.jpg": "/static/media/apple-macbook-pro2.eacf206da31857469683.jpg",
+    "static/media/apple-logo.svg": "/static/media/apple-logo.2055b3e5cab0bb44e19a.svg",
+    "index.html": "/index.html",
+    "static/media/search-icon.svg": "/static/media/search-icon.7c8a8dfc80c7a061ab84.svg",
+    "static/media/bag-icon.svg": "/static/media/bag-icon.84bcdc296ee6e37b0384.svg",
+    "main.06aeafa9.css.map": "/static/css/main.06aeafa9.css.map",
+    "main.f3b0153c.js.map": "/static/js/main.f3b0153c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06aeafa9.css",
+    "static/js/main.f3b0153c.js"
+  ]
+}
