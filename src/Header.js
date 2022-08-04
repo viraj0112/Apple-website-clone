@@ -10,7 +10,7 @@ function Header() {
   
   return (
     <>
-      <div className="nav-container active">
+      <div className="nav-container">
         <nav>
           <ul className="mobile-nav">
             <li>
